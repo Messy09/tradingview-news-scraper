@@ -1,0 +1,34 @@
+[
+  {
+    "id": "DJN_SN20230605009214:0",
+    "title": "Snap scoops up Google veteran for senior role",
+    "provider": "market-watch",
+    "sourceLogoId": "marketwatch",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/marketwatch--theme-light.svg",
+    "published": 1685998140,
+    "source": "MarketWatch",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      },
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      },
+      {
+        "symbol": "NYSE:SNAP",
+        "logoid": "snap",
+        "logourl": "https://s3-symbol-logo.tradingview.com/snap.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_SN20230605009214:0/",
+    "astDescription": "Snap Inc. has hired Eric Young for a senior leadership role, reflecting the company’s continued push to strengthen its executive bench with experienced technology leaders.",
+    "descriptionText": "Snap Inc. has hired Eric Young, a seasoned Google veteran, for a senior leadership role. The move is seen as part of Snap’s broader strategy to reinforce its leadership team and drive innovation across its core product lines.",
+    "shortDescription": "Snap Inc. has hired Eric Young, a former Google executive, for a senior role as part of its ongoing leadership expansion."
+  }
+]
