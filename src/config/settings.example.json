@@ -1,0 +1,9 @@
+{
+  "input_file": "data/sample_input.json",
+  "output_format": "json",
+  "output_dir": "data",
+  "output_path": "",
+  "log_level": "INFO",
+  "provider_filter": null,
+  "min_urgency": 0
+}
